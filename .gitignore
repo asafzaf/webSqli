@@ -1,0 +1,19 @@
+# Ignore server files
+/pre-protecting/back/node_modules/
+/pre-protecting/back/.env
+
+/post-protecting/back/node_modules/
+/post-protecting/back/.env
+
+# Ignore React app files
+/pre-protecting/front/node_modules/
+/pre-protecting/front/build/
+/pre-protecting/front/.env
+
+/post-protecting/front/node_modules/
+/post-protecting/front/build/
+/post-protecting/front/.env
+
+# Ignore editor and OS files
+.vscode/
+.DS_Store
